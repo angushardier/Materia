@@ -24,7 +24,7 @@ You probably know better (or more clueless) than anyone else about where the des
 
 ## Requirements
 
-- macOS 13 or later
+- macOS 14 or later
 - English / Traditional Chinese literacy
 - Apple Account (optional)
 
