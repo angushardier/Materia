@@ -5,7 +5,7 @@ You probably know better (or more clueless) than anyone else about where the des
 
 ## ⚠️ Disclaimer
 
-- This app is generated with GPT-5.4 in Codex. 
+- This app is a cognitive automation product. Involved models include: GPT-5.4 in Codex. 
 - We urge the avoidance of using this app. We are not responsible for any result. We do not promise anything.
 
 ## What It Does
