@@ -5,7 +5,7 @@ You probably know better (or more clueless) than anyone else about where the des
 
 ## ⚠️ Disclaimer
 
-- This app is a product of cognitive automation. Involved models include: GPT-5.4 in Codex. 
+- This app is a product of cognitive automation. 
 - We urge the avoidance of using this app. We are not responsible for any result. We do not promise anything.
 
 ## What It Does
@@ -37,3 +37,6 @@ You probably know better (or more clueless) than anyone else about where the des
 
 ## Contributions
 This repository is for distribution only and does not accept contributions. Source code is not published. 
+
+## Notes
+We encourage you to get this app from the [Mac App Store](https://apps.apple.com/us/app/materia/id6761298943) for smoother update experiences.
